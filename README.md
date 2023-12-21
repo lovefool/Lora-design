@@ -5,4 +5,4 @@ https://blog.braveridge.com/blog/archives/318</br>
 
 アンテナの長さ　λ/4 = 32.6 / 4 = 8.15[cm]</br>
 
-
+https://www.flightcoach.org/installation-inside-model/
