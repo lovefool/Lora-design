@@ -11,3 +11,6 @@ https://dragon-torch.tech/cat-components/rf-modules/e220-900t22s-jp/<br>
 
 
 https://www.flightcoach.org/installation-inside-model/
+
+Library (Supports LLCC68)
+https://github.com/chandrawi/LoRaRF-Arduino
